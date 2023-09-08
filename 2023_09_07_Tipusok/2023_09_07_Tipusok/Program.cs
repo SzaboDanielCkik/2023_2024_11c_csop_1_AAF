@@ -41,6 +41,33 @@ namespace _2023_09_07_Tipusok
 
             Console.WriteLine(a+b);
 
+            /*byte szam1 = 238;
+            byte szam2 = 97;
+            byte osszeg = (byte)(szam1 + szam2);
+            Console.WriteLine("összeg"+osszeg);*/
+
+
+            //Aritmetikai műveletek
+            int szam1 = 111;
+            int szam2 = 13;
+            Console.WriteLine(szam1 +" "+ szam2);
+            Console.WriteLine("Összeg: " + (szam1 + szam2));
+            Console.WriteLine("Kivonás: " + (szam1 - szam2));
+            Console.WriteLine("Szorzás: " + (szam1 * szam2));
+            Console.WriteLine("Osztás: " + (szam1 / szam2));
+            Console.WriteLine("Maradék: " + (szam1 % szam2));
+            //szam1 = szam1++; szam1 = szam1+1; szam1+= 1;
+            Console.WriteLine("Növelés: " + ++szam1); 
+            //szam1 = szam1--; szam1 = szam1-1; szam1-=1;
+            Console.WriteLine("Csökkenés: " + --szam1);           
+
+            // szam1*=2; szam1 = szam1 * 2;
+            // szam1/=2; szam1 = szam1 / 2;
+            // szam1%=2; szam1 = szam1 % 2;
+
+            
+
+
 
             Console.ReadLine();
         }

@@ -1,0 +1,7 @@
+H:\2023-2024\11.c csop 1 AAF\2023_09_12_Konvertalas\2023_09_12_Konvertalas\bin\Debug\2023_09_12_Konvertalas.exe.config
+H:\2023-2024\11.c csop 1 AAF\2023_09_12_Konvertalas\2023_09_12_Konvertalas\bin\Debug\2023_09_12_Konvertalas.exe
+H:\2023-2024\11.c csop 1 AAF\2023_09_12_Konvertalas\2023_09_12_Konvertalas\bin\Debug\2023_09_12_Konvertalas.pdb
+H:\2023-2024\11.c csop 1 AAF\2023_09_12_Konvertalas\2023_09_12_Konvertalas\obj\Debug\2023_09_12_Konvertalas.csproj.AssemblyReference.cache
+H:\2023-2024\11.c csop 1 AAF\2023_09_12_Konvertalas\2023_09_12_Konvertalas\obj\Debug\2023_09_12_Konvertalas.csproj.CoreCompileInputs.cache
+H:\2023-2024\11.c csop 1 AAF\2023_09_12_Konvertalas\2023_09_12_Konvertalas\obj\Debug\2023_09_12_Konvertalas.exe
+H:\2023-2024\11.c csop 1 AAF\2023_09_12_Konvertalas\2023_09_12_Konvertalas\obj\Debug\2023_09_12_Konvertalas.pdb

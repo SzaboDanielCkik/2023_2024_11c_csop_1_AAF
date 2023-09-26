@@ -44,6 +44,7 @@ namespace _2023_09_19_Karakterlanc
 
             //28-29 feladat
 
+
             Console.ReadLine();
         }
     }

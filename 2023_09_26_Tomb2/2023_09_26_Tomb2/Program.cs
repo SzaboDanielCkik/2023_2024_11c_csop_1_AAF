@@ -12,7 +12,7 @@ namespace _2023_09_26_Tomb2
         {
             //int[] tomb = new int[] {1,5,4,2,7,5,3 };
             string[] tomb = new string[] {
-                "alma","körte", "cseresznye", "szilva", "barack","sárgadinnye", "dinnye"
+                "alma","körte", "cserexsznye", "szilva", "barack","sárgadinnye", "dinnye"
             };
             // Add meg hányadik helyen van a leghosszabb névvel rendelkező gyümölcs, mi a neve és hány karakter hosszú!
 
@@ -53,6 +53,28 @@ namespace _2023_09_26_Tomb2
                 Console.WriteLine(tomb[i] + " - " + ujsz);
             }
             // Van-e olyan gyümölcs, amelyik tartalmaz valamilyen betűt! pl. x-et.
+
+            int s = 0;
+            int k = 0;
+            char c = 'x';
+            bool vane = false;
+            while (s < tomb.Length && !vane)
+            {
+                k = 0;
+                string akt = tomb[s];
+                while (k < akt.Length && akt[k] != c)
+                    k++;
+                if (k < akt.Length)
+                    vane = true;
+                else
+                    s++;
+            }
+            if (vane)
+                Console.WriteLine("Van benne {0} betu", c);
+            else
+                Console.WriteLine("Nincs benne {0} betu", c);
+
+            //34-35
 
 
             Console.ReadLine();

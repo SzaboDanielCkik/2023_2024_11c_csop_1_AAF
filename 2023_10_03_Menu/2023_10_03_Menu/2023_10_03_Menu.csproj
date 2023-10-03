@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9305D131-CED3-4F43-82BA-0F00CC3FD0A2}</ProjectGuid>
+    <ProjectGuid>{1D2378F8-35D3-4619-B7C4-B7D269D8A433}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_2023_09_25_IPv6_2014_maj</RootNamespace>
-    <AssemblyName>2023_09_25_IPv6_2014_maj</AssemblyName>
+    <RootNamespace>_2023_10_03_Menu</RootNamespace>
+    <AssemblyName>2023_10_03_Menu</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

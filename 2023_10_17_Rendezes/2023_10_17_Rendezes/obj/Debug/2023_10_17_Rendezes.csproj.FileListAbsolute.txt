@@ -1,0 +1,7 @@
+H:\2023-2024\11.c csop 1 AAF\2023_10_17_Rendezes\2023_10_17_Rendezes\bin\Debug\2023_10_17_Rendezes.exe.config
+H:\2023-2024\11.c csop 1 AAF\2023_10_17_Rendezes\2023_10_17_Rendezes\bin\Debug\2023_10_17_Rendezes.exe
+H:\2023-2024\11.c csop 1 AAF\2023_10_17_Rendezes\2023_10_17_Rendezes\bin\Debug\2023_10_17_Rendezes.pdb
+H:\2023-2024\11.c csop 1 AAF\2023_10_17_Rendezes\2023_10_17_Rendezes\obj\Debug\2023_10_17_Rendezes.csproj.AssemblyReference.cache
+H:\2023-2024\11.c csop 1 AAF\2023_10_17_Rendezes\2023_10_17_Rendezes\obj\Debug\2023_10_17_Rendezes.csproj.CoreCompileInputs.cache
+H:\2023-2024\11.c csop 1 AAF\2023_10_17_Rendezes\2023_10_17_Rendezes\obj\Debug\2023_10_17_Rendezes.exe
+H:\2023-2024\11.c csop 1 AAF\2023_10_17_Rendezes\2023_10_17_Rendezes\obj\Debug\2023_10_17_Rendezes.pdb

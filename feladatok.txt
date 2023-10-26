@@ -1,0 +1,12 @@
+Csak ascii kódokkal dolgothatsz!!!!!!!!!!
+1. Metódus: A felhasználótól kérjen be egy szöveget, és ellenőrizze le, hogy a felhasználó megadott-e bármit és max 100 karakter hosszú.
+2. Metódus: A szöveget alakítsa át úgy, hogy csak kisbetűk szerepelhetnek és ezt adja vissza értékül!
+3. Metódus: A szöveget alakítsa át úgy, hogy csak nagybetűk szerepelhetnek és ezt adja vissza értékül!
+4. Metódus: Lehessen megadni, hogy a szöveg hányadik karakterétől hány darab karakter szeretnénk kivágni és ezt adja vissza eredményül!
+5. Metódus: A szöveget alakítsa át kiskapitálissá! Minden szó első betűje legyen nagybetű és ezt visszaadja értékül!
+6. Metódus: A szövegben minden egyes szót fordítson meg a saját helyén.
+pl. Béla elment a piacra. -> aléB tnemle a .arcaip
+
+szoveg = "kalapács"
+(int)szoveg[0]
+(char)65 -> A

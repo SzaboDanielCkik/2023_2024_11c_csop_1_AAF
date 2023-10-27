@@ -8,6 +8,14 @@ namespace _2023_10_19_Gyakorlas
 {
     class Program
     {
+		/* HF
+		Töltsön fel két tömböt n és m elemmel;
+		Adja meg a két tömb Metszetét és Unioját!
+		
+		Tömböt úgy töltse fel, hogy ne legyen benne ismétlődő elem!
+		
+		*/
+		
         static int[] t = new int[50];
         static void Main(string[] args)
         {
@@ -19,11 +27,50 @@ namespace _2023_10_19_Gyakorlas
 
             Tombfeltoltes();
             Feladat1();
-            Feladat2();
-            /*Feladat3();
-            Feladat4();*/
+            /*Feladat2();
+            Feladat3();*/
+            Feladat4();
             Console.ReadLine();
         }
+
+        static void Feladat4()
+        {
+            int[] x = new int[t.Length];
+
+            int k = KigyujtesDb(t, x);
+            TombKiiratasKdb(x, k);
+        }
+
+        static int KigyujtesDb(int[] t, int[] x)
+        {
+            int k = 0;
+            for (int i = 0; i < t.Length; i++)
+            {                
+                if (!VaneTombeErtek(x,k,t[i]))
+                {
+                    x[k] = t[i];
+                    k++;
+                }
+            }
+            return k;
+        }
+
+        static bool VaneTombeErtek(int[] x, int k, int a)
+        {
+            int j = 0;
+            while (j < k && a != x[j])
+                j++;
+            return j < k;
+        }
+
+        static void TombKiiratasKdb(int[] tomb, int k)
+        {
+            for (int i = 0; i < k; i++)
+            {
+                Console.Write(tomb[i] + " ");
+            }
+        }
+
 
         static void Feladat2()
         {

@@ -1,0 +1,7 @@
+H:\2023-2024\11.c csop 1 AAF\2023_11_17_Sziget1\2023_11_17_Sziget1\bin\Debug\2023_11_17_Sziget1.exe.config
+H:\2023-2024\11.c csop 1 AAF\2023_11_17_Sziget1\2023_11_17_Sziget1\bin\Debug\2023_11_17_Sziget1.exe
+H:\2023-2024\11.c csop 1 AAF\2023_11_17_Sziget1\2023_11_17_Sziget1\bin\Debug\2023_11_17_Sziget1.pdb
+H:\2023-2024\11.c csop 1 AAF\2023_11_17_Sziget1\2023_11_17_Sziget1\obj\Debug\2023_11_17_Sziget1.csproj.AssemblyReference.cache
+H:\2023-2024\11.c csop 1 AAF\2023_11_17_Sziget1\2023_11_17_Sziget1\obj\Debug\2023_11_17_Sziget1.csproj.CoreCompileInputs.cache
+H:\2023-2024\11.c csop 1 AAF\2023_11_17_Sziget1\2023_11_17_Sziget1\obj\Debug\2023_11_17_Sziget1.exe
+H:\2023-2024\11.c csop 1 AAF\2023_11_17_Sziget1\2023_11_17_Sziget1\obj\Debug\2023_11_17_Sziget1.pdb

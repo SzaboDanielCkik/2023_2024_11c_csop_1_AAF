@@ -1,0 +1,7 @@
+H:\2023-2024\11.c csop 1 AAF\2023_11_06_Lista\2023_11_06_Lista\bin\Debug\2023_11_06_Lista.exe.config
+H:\2023-2024\11.c csop 1 AAF\2023_11_06_Lista\2023_11_06_Lista\bin\Debug\2023_11_06_Lista.exe
+H:\2023-2024\11.c csop 1 AAF\2023_11_06_Lista\2023_11_06_Lista\bin\Debug\2023_11_06_Lista.pdb
+H:\2023-2024\11.c csop 1 AAF\2023_11_06_Lista\2023_11_06_Lista\obj\Debug\2023_11_06_Lista.csproj.AssemblyReference.cache
+H:\2023-2024\11.c csop 1 AAF\2023_11_06_Lista\2023_11_06_Lista\obj\Debug\2023_11_06_Lista.csproj.CoreCompileInputs.cache
+H:\2023-2024\11.c csop 1 AAF\2023_11_06_Lista\2023_11_06_Lista\obj\Debug\2023_11_06_Lista.exe
+H:\2023-2024\11.c csop 1 AAF\2023_11_06_Lista\2023_11_06_Lista\obj\Debug\2023_11_06_Lista.pdb

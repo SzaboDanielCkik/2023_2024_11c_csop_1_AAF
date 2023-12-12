@@ -1,0 +1,5 @@
+alma 13
+szőlő 34
+szilva 12
+körte 21
+barack 23

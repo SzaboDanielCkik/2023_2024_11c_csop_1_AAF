@@ -1,0 +1,7 @@
+H:\2023-2024\11.c csop 1 AAF\2023_11_24_Matrix\2023_11_24_Matrix\bin\Debug\2023_11_24_Matrix.exe.config
+H:\2023-2024\11.c csop 1 AAF\2023_11_24_Matrix\2023_11_24_Matrix\bin\Debug\2023_11_24_Matrix.exe
+H:\2023-2024\11.c csop 1 AAF\2023_11_24_Matrix\2023_11_24_Matrix\bin\Debug\2023_11_24_Matrix.pdb
+H:\2023-2024\11.c csop 1 AAF\2023_11_24_Matrix\2023_11_24_Matrix\obj\Debug\2023_11_24_Matrix.csproj.AssemblyReference.cache
+H:\2023-2024\11.c csop 1 AAF\2023_11_24_Matrix\2023_11_24_Matrix\obj\Debug\2023_11_24_Matrix.csproj.CoreCompileInputs.cache
+H:\2023-2024\11.c csop 1 AAF\2023_11_24_Matrix\2023_11_24_Matrix\obj\Debug\2023_11_24_Matrix.exe
+H:\2023-2024\11.c csop 1 AAF\2023_11_24_Matrix\2023_11_24_Matrix\obj\Debug\2023_11_24_Matrix.pdb

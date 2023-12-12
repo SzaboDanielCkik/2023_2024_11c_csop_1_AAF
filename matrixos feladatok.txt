@@ -1,0 +1,5 @@
+1. 2D tömb (6x8) feltöltése [10,99] között!
+2. Írjon egy metódust, ami megnézi, hogy van-e 13-al osztható elem a mátrixban és ha van visszaadja a sorának és oszlopának az értékét!
+3. Írjon egy metódust, ami megadja a legkisebb elem értékét és helyét (sorát és oszlopát)
+4. Van-e olyan elem, ami a legnagyobb elem és az átlag egészre kerekített értékének különbsége!
+

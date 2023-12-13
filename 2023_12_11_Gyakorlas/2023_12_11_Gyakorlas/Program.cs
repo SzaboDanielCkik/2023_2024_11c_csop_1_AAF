@@ -23,10 +23,44 @@ namespace _2023_12_11_Gyakorlas
             Kiiratas(matrix);
             Feladat1();
             Feladat2();
-
+            Feladat3();
 
             Console.ReadLine();
 
+        }
+
+        static void Feladat3()
+        {
+            int[,] transponalt = Transponalas(matrix);
+            Kiiratas(transponalt);
+            int[,] kulonbseg = MatrixKulonbseg(matrix, transponalt);
+            Kiiratas(kulonbseg);
+        }
+
+        static int[,] MatrixKulonbseg(int[,] mat1, int[,] mat2)
+        {
+            int[,] m = new int[mat1.GetLength(0), mat1.GetLength(1)];
+            for (int i = 0; i < mat1.GetLength(0); i++)
+            {
+                for (int j = 0; j < mat1.GetLength(1); j++)
+                {
+                    m[i, j] = mat1[i, j] - mat2[i, j];
+                }
+            }
+            return m;
+        }
+
+        static int[,] Transponalas(int[,] mat)
+        {
+            int[,] m = new int[mat.GetLength(1), mat.GetLength(0)];
+            for (int i = 0; i < mat.GetLength(0); i++)
+            {
+                for (int j = 0; j < mat.GetLength(1); j++)
+                {
+                    m[j, i] = mat[i, j];
+                }
+            }
+            return m;
         }
 
         static void Feladat2()

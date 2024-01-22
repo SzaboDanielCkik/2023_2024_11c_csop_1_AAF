@@ -1,0 +1,9 @@
+gyumolcsneve mennyiség egységár
+alma 12 100
+cseresznye 15 350
+dinnye 25 200
+ribizli 8 400
+meggy 21 150
+körte 20 140
+szilva 35 200
+barack 23 450

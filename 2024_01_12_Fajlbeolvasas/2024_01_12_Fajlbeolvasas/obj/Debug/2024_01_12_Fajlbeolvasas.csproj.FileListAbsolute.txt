@@ -1,0 +1,7 @@
+H:\2023-2024\11.c csop 1 AAF\2024_01_12_Fajlbeolvasas\2024_01_12_Fajlbeolvasas\bin\Debug\2024_01_12_Fajlbeolvasas.exe.config
+H:\2023-2024\11.c csop 1 AAF\2024_01_12_Fajlbeolvasas\2024_01_12_Fajlbeolvasas\bin\Debug\2024_01_12_Fajlbeolvasas.exe
+H:\2023-2024\11.c csop 1 AAF\2024_01_12_Fajlbeolvasas\2024_01_12_Fajlbeolvasas\bin\Debug\2024_01_12_Fajlbeolvasas.pdb
+H:\2023-2024\11.c csop 1 AAF\2024_01_12_Fajlbeolvasas\2024_01_12_Fajlbeolvasas\obj\Debug\2024_01_12_Fajlbeolvasas.csproj.AssemblyReference.cache
+H:\2023-2024\11.c csop 1 AAF\2024_01_12_Fajlbeolvasas\2024_01_12_Fajlbeolvasas\obj\Debug\2024_01_12_Fajlbeolvasas.csproj.CoreCompileInputs.cache
+H:\2023-2024\11.c csop 1 AAF\2024_01_12_Fajlbeolvasas\2024_01_12_Fajlbeolvasas\obj\Debug\2024_01_12_Fajlbeolvasas.exe
+H:\2023-2024\11.c csop 1 AAF\2024_01_12_Fajlbeolvasas\2024_01_12_Fajlbeolvasas\obj\Debug\2024_01_12_Fajlbeolvasas.pdb

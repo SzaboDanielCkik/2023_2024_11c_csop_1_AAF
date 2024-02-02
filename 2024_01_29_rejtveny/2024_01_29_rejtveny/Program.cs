@@ -14,12 +14,60 @@ namespace _2024_01_29_rejtveny
 
         static void Main(string[] args)
         {
-            Feladat_1_2();
+            //Feladat_1_2();
             Fajlbeolvasas();
             FajbolFeladvany();
             Feladat3();
+            Feladat4();
+            Feladat5();
+
 
             Console.ReadLine();
+        }
+
+        private static void Feladat5()
+        {
+            Console.WriteLine("5. feladat");
+            int db = 0;
+            for (int i = 0; i < versenyzok.Count; i++)
+            {
+                if (versenyzok[i].Osszehasonlit(feladvany) && versenyzok[i].VaneErintkezes())
+                    db++;
+            }
+            Console.WriteLine($"{db} darab szabálytalan megoldás van.");
+        }
+
+        private static void Feladat4()
+        {
+            Console.WriteLine("4. feladat");
+            int db = NemJoHajoSzamLista().Count;
+            Console.WriteLine($"{db} darab feladványnál nincs 12 hajó.");
+        }
+
+
+        private static List<Versenyzo> NemJoHajoSzamLista()
+        {
+            List<Versenyzo> st = new List<Versenyzo>();
+            for (int i = 0; i < versenyzok.Count; i++)
+            {
+                //if (HajokSzama(versenyzok[i].tabla) != 12)
+                if(versenyzok[i].HajokSzama() != 12)
+                    st.Add(versenyzok[i]);
+            }
+            return st;
+        }
+
+        private static int HajokSzama(int[,] tabla)
+        {
+            int db = 0;
+            for (int i = 0; i < tabla.GetLength(0); i++)
+            {
+                for (int j = 0; j < tabla.GetLength(1); j++)
+                {
+                    if (tabla[i, j] == 11) db++;
+                }
+            }
+            return db;
         }
 
         private static void Feladat3()
@@ -155,6 +203,56 @@ namespace _2024_01_29_rejtveny
                 else i++;
             }
             return vane;
+        }
+
+        public int HajokSzama()
+        {
+            int db = 0;
+            for (int i = 0; i < tabla.GetLength(0); i++)
+            {
+                for (int j = 0; j < tabla.GetLength(1); j++)
+                {
+                    if (tabla[i, j] == 11) db++;
+                }
+            }
+            return db;
+        }
+
+        public bool VaneErintkezes()
+        {
+            int i = 0;
+            bool vane = false;
+            while (i < tabla.GetLength(0) && !vane)
+            {
+                int j = 0;
+                while (j < tabla.GetLength(1) && (tabla[i, j] == 0 || CsakNullaSzomszed(i, j)))
+                    j++;
+                if (j < tabla.GetLength(1))
+                    vane = true;
+                else
+                    i++;
+            }
+            return vane;
+        }
+
+        public bool CsakNullaSzomszed(int sor, int oszlop)
+        {
+            int i = -1;
+            bool joe = true;
+            while (i < 2 && joe)
+            {
+                int j = -1;
+                while (j < 2 &&
+                    ((sor + i == -1 || oszlop + j == -1 ||
+                    sor + i >= tabla.GetLength(0) || oszlop + j >= tabla.GetLength(1) ||
+                    tabla[sor + i, oszlop + j] == 0) || (i == 0 && j == 0)))
+                    j++;
+                if (j < 2)
+                    joe = false;
+                else
+                    i++;
+            }
+            return joe;
         }
     }
 }

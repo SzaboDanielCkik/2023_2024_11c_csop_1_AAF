@@ -1,0 +1,7 @@
+h:\2023-2024\11.c csop 1 AAF\2024_02_05_Radio\2024_02_05_Radio\bin\Debug\2024_02_05_Radio.exe.config
+h:\2023-2024\11.c csop 1 AAF\2024_02_05_Radio\2024_02_05_Radio\bin\Debug\2024_02_05_Radio.exe
+h:\2023-2024\11.c csop 1 AAF\2024_02_05_Radio\2024_02_05_Radio\bin\Debug\2024_02_05_Radio.pdb
+h:\2023-2024\11.c csop 1 AAF\2024_02_05_Radio\2024_02_05_Radio\obj\Debug\2024_02_05_Radio.csproj.AssemblyReference.cache
+h:\2023-2024\11.c csop 1 AAF\2024_02_05_Radio\2024_02_05_Radio\obj\Debug\2024_02_05_Radio.csproj.CoreCompileInputs.cache
+h:\2023-2024\11.c csop 1 AAF\2024_02_05_Radio\2024_02_05_Radio\obj\Debug\2024_02_05_Radio.exe
+h:\2023-2024\11.c csop 1 AAF\2024_02_05_Radio\2024_02_05_Radio\obj\Debug\2024_02_05_Radio.pdb

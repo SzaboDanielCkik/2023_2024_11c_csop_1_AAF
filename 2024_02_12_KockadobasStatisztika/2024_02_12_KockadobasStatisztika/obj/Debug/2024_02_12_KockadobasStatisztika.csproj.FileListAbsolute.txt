@@ -1,0 +1,7 @@
+h:\2023-2024\11.c csop 1 AAF\2024_02_12_KockadobasStatisztika\2024_02_12_KockadobasStatisztika\bin\Debug\2024_02_12_KockadobasStatisztika.exe.config
+h:\2023-2024\11.c csop 1 AAF\2024_02_12_KockadobasStatisztika\2024_02_12_KockadobasStatisztika\bin\Debug\2024_02_12_KockadobasStatisztika.exe
+h:\2023-2024\11.c csop 1 AAF\2024_02_12_KockadobasStatisztika\2024_02_12_KockadobasStatisztika\bin\Debug\2024_02_12_KockadobasStatisztika.pdb
+h:\2023-2024\11.c csop 1 AAF\2024_02_12_KockadobasStatisztika\2024_02_12_KockadobasStatisztika\obj\Debug\2024_02_12_KockadobasStatisztika.csproj.AssemblyReference.cache
+h:\2023-2024\11.c csop 1 AAF\2024_02_12_KockadobasStatisztika\2024_02_12_KockadobasStatisztika\obj\Debug\2024_02_12_KockadobasStatisztika.csproj.CoreCompileInputs.cache
+h:\2023-2024\11.c csop 1 AAF\2024_02_12_KockadobasStatisztika\2024_02_12_KockadobasStatisztika\obj\Debug\2024_02_12_KockadobasStatisztika.exe
+h:\2023-2024\11.c csop 1 AAF\2024_02_12_KockadobasStatisztika\2024_02_12_KockadobasStatisztika\obj\Debug\2024_02_12_KockadobasStatisztika.pdb

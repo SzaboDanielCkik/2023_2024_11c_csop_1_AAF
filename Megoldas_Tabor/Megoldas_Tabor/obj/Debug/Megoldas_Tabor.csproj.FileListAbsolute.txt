@@ -1,0 +1,7 @@
+H:\2023-2024\11.c csop 1 AAF\Megoldas_Tabor\Megoldas_Tabor\bin\Debug\Megoldas_Tabor.exe.config
+H:\2023-2024\11.c csop 1 AAF\Megoldas_Tabor\Megoldas_Tabor\bin\Debug\Megoldas_Tabor.exe
+H:\2023-2024\11.c csop 1 AAF\Megoldas_Tabor\Megoldas_Tabor\bin\Debug\Megoldas_Tabor.pdb
+H:\2023-2024\11.c csop 1 AAF\Megoldas_Tabor\Megoldas_Tabor\obj\Debug\Megoldas_Tabor.csproj.AssemblyReference.cache
+H:\2023-2024\11.c csop 1 AAF\Megoldas_Tabor\Megoldas_Tabor\obj\Debug\Megoldas_Tabor.csproj.CoreCompileInputs.cache
+H:\2023-2024\11.c csop 1 AAF\Megoldas_Tabor\Megoldas_Tabor\obj\Debug\Megoldas_Tabor.exe
+H:\2023-2024\11.c csop 1 AAF\Megoldas_Tabor\Megoldas_Tabor\obj\Debug\Megoldas_Tabor.pdb

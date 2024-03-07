@@ -1,0 +1,7 @@
+H:\2023-2024\11.c csop 1 AAF\2024_02_26_Rekurzio\2024_02_26_Rekurzio\bin\Debug\2024_02_26_Rekurzio.exe.config
+H:\2023-2024\11.c csop 1 AAF\2024_02_26_Rekurzio\2024_02_26_Rekurzio\bin\Debug\2024_02_26_Rekurzio.exe
+H:\2023-2024\11.c csop 1 AAF\2024_02_26_Rekurzio\2024_02_26_Rekurzio\bin\Debug\2024_02_26_Rekurzio.pdb
+H:\2023-2024\11.c csop 1 AAF\2024_02_26_Rekurzio\2024_02_26_Rekurzio\obj\Debug\2024_02_26_Rekurzio.csproj.AssemblyReference.cache
+H:\2023-2024\11.c csop 1 AAF\2024_02_26_Rekurzio\2024_02_26_Rekurzio\obj\Debug\2024_02_26_Rekurzio.csproj.CoreCompileInputs.cache
+H:\2023-2024\11.c csop 1 AAF\2024_02_26_Rekurzio\2024_02_26_Rekurzio\obj\Debug\2024_02_26_Rekurzio.exe
+H:\2023-2024\11.c csop 1 AAF\2024_02_26_Rekurzio\2024_02_26_Rekurzio\obj\Debug\2024_02_26_Rekurzio.pdb

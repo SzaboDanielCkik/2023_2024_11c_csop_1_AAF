@@ -1,0 +1,7 @@
+H:\2023-2024\11.c csop 1 AAF\2024_02_29_RekurzivMatrix\2024_02_29_RekurzivMatrix\bin\Debug\2024_02_29_RekurzivMatrix.exe.config
+H:\2023-2024\11.c csop 1 AAF\2024_02_29_RekurzivMatrix\2024_02_29_RekurzivMatrix\bin\Debug\2024_02_29_RekurzivMatrix.exe
+H:\2023-2024\11.c csop 1 AAF\2024_02_29_RekurzivMatrix\2024_02_29_RekurzivMatrix\bin\Debug\2024_02_29_RekurzivMatrix.pdb
+H:\2023-2024\11.c csop 1 AAF\2024_02_29_RekurzivMatrix\2024_02_29_RekurzivMatrix\obj\Debug\2024_02_29_RekurzivMatrix.csproj.AssemblyReference.cache
+H:\2023-2024\11.c csop 1 AAF\2024_02_29_RekurzivMatrix\2024_02_29_RekurzivMatrix\obj\Debug\2024_02_29_RekurzivMatrix.csproj.CoreCompileInputs.cache
+H:\2023-2024\11.c csop 1 AAF\2024_02_29_RekurzivMatrix\2024_02_29_RekurzivMatrix\obj\Debug\2024_02_29_RekurzivMatrix.exe
+H:\2023-2024\11.c csop 1 AAF\2024_02_29_RekurzivMatrix\2024_02_29_RekurzivMatrix\obj\Debug\2024_02_29_RekurzivMatrix.pdb

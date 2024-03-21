@@ -1,0 +1,7 @@
+h:\2023-2024\11.c csop 1 AAF\2024_03_11_Vektorok\2024_03_11_Vektorok\bin\Debug\2024_03_11_Vektorok.exe.config
+h:\2023-2024\11.c csop 1 AAF\2024_03_11_Vektorok\2024_03_11_Vektorok\bin\Debug\2024_03_11_Vektorok.exe
+h:\2023-2024\11.c csop 1 AAF\2024_03_11_Vektorok\2024_03_11_Vektorok\bin\Debug\2024_03_11_Vektorok.pdb
+h:\2023-2024\11.c csop 1 AAF\2024_03_11_Vektorok\2024_03_11_Vektorok\obj\Debug\2024_03_11_Vektorok.csproj.AssemblyReference.cache
+h:\2023-2024\11.c csop 1 AAF\2024_03_11_Vektorok\2024_03_11_Vektorok\obj\Debug\2024_03_11_Vektorok.csproj.CoreCompileInputs.cache
+h:\2023-2024\11.c csop 1 AAF\2024_03_11_Vektorok\2024_03_11_Vektorok\obj\Debug\2024_03_11_Vektorok.exe
+h:\2023-2024\11.c csop 1 AAF\2024_03_11_Vektorok\2024_03_11_Vektorok\obj\Debug\2024_03_11_Vektorok.pdb
